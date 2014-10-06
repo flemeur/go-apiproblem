@@ -9,10 +9,10 @@ import (
 	"fmt"
 )
 
-// Constants containing the mime types for JSON and XML
+// Constants containing the media types for JSON and XML
 const (
-	JSONMimeType = "application/problem+json"
-	XMLMimeType  = "application/problem+xml"
+	JSONMediaType = "application/problem+json"
+	XMLMediaType  = "application/problem+xml"
 )
 
 // APIProblem data structure
